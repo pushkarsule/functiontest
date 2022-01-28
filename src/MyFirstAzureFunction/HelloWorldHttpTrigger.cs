@@ -6,7 +6,7 @@ using Microsoft.Azure.WebJobs;
 using Microsoft.Azure.WebJobs.Extensions.Http;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.Logging;
-
+ 
 namespace AzureFunctionsUniversity.Demo
 {
     public static class HelloWorldHttpTrigger
