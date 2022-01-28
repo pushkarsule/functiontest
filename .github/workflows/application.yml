@@ -9,9 +9,9 @@ on:
   workflow_dispatch:
 
 env:
-  FUNCTION_APP_NAME: myfirstfunctionapp-fa
+  FUNCTION_APP_NAME: gitactiondemo128
   FUNCTION_APP_PACKAGE_PATH: '/src/MyFirstAzureFunction'
-  RESOURCE_GROUP_NAME: myfirstfunction-rg
+  RESOURCE_GROUP_NAME: gitactiondemo128
   DOTNET_VERSION: '3.1.404'
 
 jobs:
